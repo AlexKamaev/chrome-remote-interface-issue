@@ -1,0 +1,24 @@
+{
+  "name": "chrome-remote-interface-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexKamaev/chrome-remote-interface-issue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexKamaev/chrome-remote-interface-issue/issues"
+  },
+  "homepage": "https://github.com/AlexKamaev/chrome-remote-interface-issue#readme",
+  "dependencies": {
+    "chrome-launcher": "^0.15.2",
+    "chrome-remote-interface": "^0.32.2"
+  }
+}
